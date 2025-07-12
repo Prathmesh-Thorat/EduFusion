@@ -11,7 +11,7 @@ You can download the **latest Android APK for EduFusion** directly from this rep
 
 1.  **Go to the Releases Page:**
     Click on the "**Releases**" tab located near the top of this GitHub repository page, or simply click here:
-    **[🔗 EduFusion Latest Release](https://github.com/Prathmesh-Thorat/EduFusion/edit/main/README.md)**
+    **[🔗 EduFusion Latest Release](https://github.com/Prathmesh-Thorat/EduFusion/releases/tag/v1.4.5)**
 
 2.  **Download the APK:**
     On the Releases page, look for the **latest version**. You'll find the `EduFusion.apk` file listed . **Click on it to download.**
